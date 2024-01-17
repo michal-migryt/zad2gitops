@@ -27,7 +27,9 @@ ingress
 2
 <br>
 lab10zad2
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/ffdc7812-b380-43f9-a77c-027a82061cc2)
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/1b1b1366-2aac-46a1-af49-227a79fcd122)
 
 3A
@@ -54,15 +56,22 @@ więc połączenie po ip musi być dowodem na poprawne działanie
 4B
 <br>
 Po dokonaniu aktualizacji na wersję 1.2 w pliku index.html w source repo
+<br>
 Zmiana na klastrze dzięki crone job
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/b38400b9-09b5-40f8-a813-d797cddb08df)
 Github actions
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/bdcfcbbc-9b07-4065-9e39-0baae726cdfe)
+<br>
 Commit w config repo przy pomocy workflowu (wiadomość z informacją o wersji w commicie poprawiona w trakcie wykonywania sprawozdania):
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/8b1e8402-95f4-49e8-a271-82f40736ae58)
 
 Pozostałe screeny
+<br>
 Repo docker hub
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/dc3ae341-4b54-4da7-9265-faa79d02deee)
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/660425d1-5c17-4eeb-b286-dd65f8be82c4)
 
