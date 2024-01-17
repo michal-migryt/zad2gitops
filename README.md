@@ -1,46 +1,58 @@
 # zad2 sprawozdanie
 Pozostałe repozytoria:
-source repo - https://github.com/michal-migryt/Source-repo
+source repo - https://github.com/michal-migryt/Source-repo 
+<br>
 config repo - https://github.com/michal-migryt/Config-repo
+<br>
 1A
+<br>
 index.html (akurat w wersji 1.2)
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/515884cc-ecda-4deb-855d-ebc3e1c65d4d)
 
 Dockerfile
+<br>
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/d9efe704-357f-4be0-9e06-746e33bbea5a)
-
+<br>
 1B
+<br>
 deployment
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/12339cf8-9dc4-4a07-a876-74cfde06368b)
-
+<br>
 service
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/af90ff31-e98c-4b3c-9d9f-8b13b2fb5837)
-
+<br>
 ingress
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/ef05bdf7-5003-44d9-a832-764dc46a54bd)
-
+<br>
 2
+<br>
 lab10zad2
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/ffdc7812-b380-43f9-a77c-027a82061cc2)
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/1b1b1366-2aac-46a1-af49-227a79fcd122)
 
 3A
+<br>
 Dockerfile
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/2d9c5ec1-bd1c-43b3-bd0b-369876d8440e)
 
 3B
+<br>
 StepCD
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/a35cd0f1-4b36-4f22-b9b3-0d9eb3d0af33)
 
 4A
+<br>
 Po wykonaniu apply StepCD
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/77d3d9b3-56bd-420b-8f61-2176d675be8a)
+<br>
 Coś poszło nie tak...
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/f8c8da85-4b3a-4501-baee-cf7f946ea46c)
+<br>
 więc połączenie po ip musi być dowodem na poprawne działanie
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/cb19db35-badc-4470-99ac-508449810372)
 
 4B
+<br>
 Po dokonaniu aktualizacji na wersję 1.2 w pliku index.html w source repo
 Zmiana na klastrze dzięki crone job
 ![image](https://github.com/michal-migryt/zad2gitops/assets/65659701/b38400b9-09b5-40f8-a813-d797cddb08df)
